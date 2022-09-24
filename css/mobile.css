@@ -1,0 +1,52 @@
+ #navbararea .logo{
+   float: none;
+   text-align: center;
+ }
+
+ #navbararea ul, #navbararea ul li{
+   float: none;
+   
+
+ }
+
+ #navbararea ul li a{
+   padding: 10px;
+   border-bottom: #444 dotted 1px;
+ }
+ 
+
+ /* Home Info */
+
+ #homeinfo .homeinfoimg{
+   display: none;
+ }
+
+ #homeinfo .homeinfocontent{
+   float: none;
+   width: 100%;
+ }
+
+ /* Boxes */
+ .box{
+   float: none;
+   width: 100%;
+ }
+
+ /* About Page */
+ #aboutpage .aboutimage,
+ #aboutpage .aboutcontent{
+   float: none;
+   width: 100%;
+   
+ }
+
+ #sideattractions{
+   display: grid;
+   grid-template-columns: 1fr;
+ }
+
+ .spantwo{
+  margin-top: 12rem;
+  font-size: 2.7rem;
+  /* background-color: red; */
+ }
